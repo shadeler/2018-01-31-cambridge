@@ -10,7 +10,7 @@ humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18,
 humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2018-01-31
 enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2018-01-31
-instructor: ["FIXME"] # boxed, comma-separated list of instructors' names as strings, like ["Aleksandra Nenadic", "Fotis E. Psomopoulos"]
+instructor: ["Aleksandra Nenadic", "Fotis E. Psomopoulos"] # boxed, comma-separated list of instructors' names as strings, like ["Aleksandra Nenadic", "Fotis E. Psomopoulos"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["a.nenadic@manchester.ac.uk", "fpsom@issel.ee.auth.gr"]
 email: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like [" ", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
