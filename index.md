@@ -8,8 +8,8 @@ language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see
 latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2018-01-31
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2018-01-31
+startdate: 2018-01-30      # machine-readable start date for the workshop in YYYY-MM-DD format like 2018-01-31
+enddate: 2018-01-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2018-01-31
 instructor: ["Aleksandra Nenadic", "Fotis E. Psomopoulos"] # boxed, comma-separated list of instructors' names as strings, like ["Aleksandra Nenadic", "Fotis E. Psomopoulos"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["a.nenadic@manchester.ac.uk", "fpsom@issel.ee.auth.gr"]
 email: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like [" ", "ruth.lichterman@example.org"]
